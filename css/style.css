@@ -1,0 +1,23 @@
+h1
+{
+	text-align: center;
+}
+#form1
+{
+	width: 50%;
+}
+.submitform
+{
+ 	width: 100%;
+ 	display: flex;
+	justify-content: center;
+}
+.submitButton
+{
+	width: 200px;
+}
+.sign
+{
+	padding:  4px;
+	border: 1px black solid;
+}
